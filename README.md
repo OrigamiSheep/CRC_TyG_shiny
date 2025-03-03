@@ -1,0 +1,1 @@
+This is a prognostic model calculator for CRC (Colorectal Cancer). By running the command shiny::runApp("app_suv.R"), the calculation can be performed. We will release this calculator to the public in the future.
